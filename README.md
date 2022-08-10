@@ -1,6 +1,6 @@
 - 👋 Hi, I’m muhannad Abdullha Binmahfouz
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning web programming
+- 👀 I’m interested in Web Developing and Data Science 
+- 🌱 I’m currently learning Data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
