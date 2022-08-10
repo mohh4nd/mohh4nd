@@ -1,8 +1,9 @@
 - 👋 Hi, I’m muhannad Abdullha Binmahfouz
 - 👀 I’m interested in Web Developing and Data Science 
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for a job or training 
+- 📫 How to reach me mohh4nd@gmail.com  
+- My phone number: +966548866700
 
 <!---
 mohh4nd/mohh4nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
