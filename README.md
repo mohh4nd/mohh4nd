@@ -1,7 +1,6 @@
 - 👋 Hi, I’m muhannad Abdullha Binmahfouz
 - 👀 I’m interested in Web Developing and Data Science 
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking for a job or training 
 - 📫 How to reach me mohh4nd@gmail.com  
 - My phone number: +966548866700
 
